@@ -4,6 +4,8 @@
 
 A project set out to enable realistic production to be put on within Minecraft.
 
+I am using this as a learning project to further my knowledge in programming, so dont expect the best code :)
+
 
 
 ### Current Projects:
